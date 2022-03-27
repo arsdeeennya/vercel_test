@@ -9,7 +9,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>おはもん</Head>
-      まかにゃん愛してるよふーん
+      まかにゃん愛してるよふーん！
     </Layout>
   );
 }
